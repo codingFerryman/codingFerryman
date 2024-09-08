@@ -20,39 +20,47 @@ and the [AIML group](https://www.ifi.uzh.ch/en/aiml.html) at the [University of 
 ## My Skills
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingferryman&layout=compact)
+## 🛠️ Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?&logo=typescript&logoColor=white)
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
+## 🌐 Frontend Development
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?&logo=nuxt.js&logoColor=white)
 
-### Frontend Development
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?logo=nuxt.js&logoColor=white)
-
-### Machine Learning & Data Science
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?&logo=scikit-learn&logoColor=white)
+## 🤖 Machine Learning & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?&logo=numpy&logoColor=white)
-![Dask](https://img.shields.io/badge/-Dask-FDA061?logo=dask&logoColor=white)
-![Bokeh](https://img.shields.io/badge/-Bokeh-005B8A?logo=bokeh&logoColor=white)
+![Dask](https://img.shields.io/badge/Dask-FDA61F?&logo=dask&logoColor=white)
+![Bokeh](https://img.shields.io/badge/Bokeh-FF7043?&logo=bokeh&logoColor=white)
 
-### Cloud & Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Slurm](https://img.shields.io/badge/Slurm-2F6690?logo=https://upload.wikimedia.org/wikipedia/commons/3/3a/Slurm_logo.svg&logoWidth=20)
+## ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?&logo=cloudflare&logoColor=white)
+![Slurm](https://img.shields.io/badge/Slurm-0492C2?&logo=slurm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white)
 
-### Languages
-![Mandarin](https://img.shields.io/badge/Mandarin-%23FF4B4B?logo=language&logoColor=white)
-![English](https://img.shields.io/badge/English-0078D4?logo=language&logoColor=white)
+## 🛠️ Tools & IDEs
+![Git](https://img.shields.io/badge/Git-F05032?&logo=git&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?&logo=jetbrains&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?&logo=visual-studio-code&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-48A647?&logo=scrapy&logoColor=white)
+
+## 🖥️ Operating Systems
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white)
+
+## 🌐 Languages
+![Mandarin](https://img.shields.io/badge/Mandarin-FFD700?&logo=google-translate&logoColor=black)
+![English](https://img.shields.io/badge/English-008080?&logo=google-translate&logoColor=white)
+
+## ✍️ Others
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?&logo=latex&logoColor=white)
 
 
 ## Let’s Connect!
