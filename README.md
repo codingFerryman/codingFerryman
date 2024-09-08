@@ -38,10 +38,9 @@ and the [AIML group](https://www.ifi.uzh.ch/en/aiml.html) at the [University of 
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?&logo=numpy&logoColor=white)
 ![Dask](https://img.shields.io/badge/Dask-FDA61F?&logo=dask&logoColor=white)
-![Bokeh](https://img.shields.io/badge/Bokeh-FF7043?&logo=bokeh&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?&logo=cloudflare&logoColor=white)
 ![Slurm](https://img.shields.io/badge/Slurm-0492C2?&logo=slurm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white)
