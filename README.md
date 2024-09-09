@@ -19,9 +19,9 @@ and the [AIML group](https://www.ifi.uzh.ch/en/aiml.html) at the [University of 
 
 ## My Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingferryman&layout=compact)](#)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingferryman&layout=compact)
 ### 🛠️ Programming Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)](###)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?&logo=postgresql&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?&logo=gnu-bash&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black)](#)
@@ -59,7 +59,6 @@ and the [AIML group](https://www.ifi.uzh.ch/en/aiml.html) at the [University of 
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?&logo=latex&logoColor=white)](#)
 [![Scrapy](https://img.shields.io/badge/Scrapy-48A647?&logo=scrapy&logoColor=white)](#)
-
 
 
 ## Let’s Connect!
