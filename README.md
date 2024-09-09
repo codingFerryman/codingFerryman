@@ -46,6 +46,7 @@ and the [AIML group](https://www.ifi.uzh.ch/en/aiml.html) at the [University of 
 ### ☁️ Cloud & DevOps
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](###)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?&logo=cloudflare&logoColor=white)](###)
+[![Ubuntu](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](###)
 [![Slurm](https://img.shields.io/badge/Slurm-0492C2?&logo=slurm&logoColor=white)](https://slurm.schedmd.com/overview.html)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white)](###)
 [![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=fff)](###)
