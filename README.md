@@ -16,20 +16,20 @@ and the [AIML group](https://www.ifi.uzh.ch/en/aiml.html) at the [University of 
 </details>
 
 ## My Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingferryman&layout=compact)
+![Top Langs](https://github-readme-stats-three-lake-21.vercel.app/api/top-langs/?username=codingferryman&layout=compact&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5)
 
 ### 🛠️ Programming Languages
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)](###)
 [![Python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)](###)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?&logo=postgresql&logoColor=white)](###)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?&logo=gnu-bash&logoColor=white)](###)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black)](###)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?&logo=typescript&logoColor=white)](###)
 
-### 🌐 Frontend Development
+### 🌐 Full-stack Development
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](###)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?&logo=vue.js&logoColor=white)](###)
 [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?&logo=nuxt.js&logoColor=white)](###)
-
-### 🗄️ Backend Development
 [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](###)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-9933FF?logo=sqlalchemy&logoColor=white)](###)
 
